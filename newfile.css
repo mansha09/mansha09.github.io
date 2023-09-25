@@ -1,3 +1,7 @@
+body {
+  background-color: yellow;
+}
+
 h2 {
 color: blue; border : 1px dashed #000000; ;
 }
